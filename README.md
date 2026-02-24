@@ -41,11 +41,21 @@ This is a fundamental beginner Arduino project to understand:
 
 ---
 
-## 📂 Code
+## 📷 Wiring Diagram
 
-The complete Arduino sketch is available in:
+![Wiring Diagram](diagram.png)
 
-`Arduino_Potentiometer_LED_Brightness.ino`
+> Make sure your wiring matches the diagram above before uploading the code.
+
+---
+
+## 💻 Arduino Code
+
+You can download the Arduino sketch here:
+
+[Download Arduino Code](Arduino_Potentiometer_LED_Brightness.ino)
+
+Or open the `.ino` file directly inside this repository.
 
 ---
 
