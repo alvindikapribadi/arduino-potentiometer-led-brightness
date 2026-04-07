@@ -63,7 +63,7 @@ Or open the `.ino` file directly inside this repository.
 
 Watch the full tutorial on YouTube:
 
-👉 https://youtu.be/LccCZ8mD8io
+[![Watch the video](https://img.youtube.com/vi/LccCZ8mD8io/0.jpg)](https://youtu.be/LccCZ8mD8io)
 
 ---
 
